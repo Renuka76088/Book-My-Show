@@ -1,0 +1,100 @@
+.Corpo{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url(EauDp1hUcAAE-bK.jpg) ,url(https://assets-in.bmscdn.com/webin/corporate/corp-banner-bg.jpg );
+
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    
+}
+.portes{
+    height:430px;
+    width:380px;
+    
+    background-color: white;
+    border-radius: 4px;
+}
+.copo{
+    height: 200px;
+    width: 100%;
+    background-color: rgb(245, 245, 245);
+    padding: 30px;
+}
+.green{
+    background-image: url(https://assets-in.bmscdn.com/webin/corporate/green.jpg);
+    height: 25rem;
+    width: 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.red{
+    background-image: url(https://assets-in.bmscdn.com/webin/corporate/red.jpg);
+    height: 25rem;
+    width: 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.yellow{
+    background-image: url(https://assets-in.bmscdn.com/webin/corporate/yellow.jpg);
+    height: 25rem;
+    width: 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.kob{
+    font-size: 40px
+}
+.red1{
+    background-image: url(	https://in.bmscdn.com/webin/corporate/movie-voucher.png);
+    height:540px;
+    width: 100%;
+    background-repeat: no-repeat;
+    float: left;
+    color: white;
+}
+.grey{
+    background-image: url(https://in.bmscdn.com/webin/corporate/gift-voucher.png);
+    height:540px;
+    width: 100%;
+    background-repeat: no-repeat;
+    float: left;
+    color: white;
+}
+.monjo{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url(EauDp1hUcAAE-bK.jpg) ,url(	https://assets-in.bmscdn.com/webin/corporate/bulk-booking.png );
+
+    
+    height:286px;
+    /* width: 100%; */
+    object-fit: contain;
+    position: relative;
+    display: flex;
+    background-repeat: no-repeat;
+    
+    color: white;
+}
+.testimonial{
+    height: 250px;
+    object-fit: contain;
+    background-color: white;
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+.polo1{
+    font-size: 18px;
+}
+.borop{
+    border-right:3px solid rgb(236, 230, 230);
+    height: 250px;
+}
+.op{
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+}

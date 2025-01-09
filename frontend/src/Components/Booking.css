@@ -1,0 +1,88 @@
+.hjk{
+    background-color: rgb(216, 214, 214);
+}
+.paper{
+    height: 150vh;
+    width: 100%;
+    background-color: white;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.paper-2{
+    height: 150vh;
+    width: 100%;
+    background-color: white;
+    
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.nio{
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    border: 1px solid grey;
+}
+.sot{
+    background-color: rgb(230, 227, 227);
+    border: 0px;
+    border-radius: 10px;
+}
+.kut{
+    background-color: rgb(243, 241, 241);
+    height: 95vh;
+}
+.kov{
+    border: 1px solid black;
+    border-radius: 50%;
+    
+}
+.popco{
+    height:200px;
+    width: 550px;
+    margin: 30px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    display: inline-block;
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.paper-1{
+    height: 630px;
+    
+    background-color: white;
+    
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.lkj{
+    height: 150px;
+    width: 450px;
+    margin: 40px;
+    background-color: rgb(230, 226, 226);
+    
+}
+.pap{
+    padding: 15px 25px;
+    min-height:70px;
+    
+    background-color: #fffcdc;
+    
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.m-ticket{
+    
+    /* min-height: 1px; */
+    /* -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box; */
+    display: inline-block;
+    line-height: 18px;
+    text-align: left;
+    padding: 20px;
+    border: 1px solid #dfe3e7;
+    box-sizing: border-box;
+    background-color: #fff;
+    
+    font-size: 10px;
+    height: 80px;
+    /* width:200px ; */
+
+}

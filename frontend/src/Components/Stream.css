@@ -1,0 +1,167 @@
+.stream{
+    
+     background-image: url(https://assets-in.bmscdn.com/iedb/movies/images/extra/horizontal_no_logo/mobile/listing/xxlarge/beetlejuice-beetlejuice-et00392278-1729251037.jpg); 
+     background-repeat: no-repeat;
+    
+    background-size: cover;
+
+    
+    height: 90vh;
+    width: 100%;
+   
+    background-position-x:right ;
+    background-position-y:center ; 
+}
+.stream1{
+    
+     background-image: url(https://media.vanityfair.com/photos/66bce261c4665e3d3f6bc803/master/w_1920,c_limit/it-ends-with-us-drama.jpg); 
+     background-repeat: no-repeat;
+    
+    background-size: cover;
+
+    
+    height: 90vh;
+    width: 100%;
+   
+    background-position-x:right ;
+    background-position-y:center ; 
+}
+.stream3{
+    
+     background-image: url(https://www.fwweekly.com/wp-content/uploads/2024/07/Longlegs-681x383.png); 
+     background-repeat: no-repeat;
+    
+    background-size: cover;
+
+    
+    height: 90vh;
+    width: 100%;
+   
+    background-position-x:right ;
+    background-position-y:center ; 
+}
+.stream4{
+    
+     background-image: url(https://i0.wp.com/vaguevisages.com/wp-content/uploads/2024/05/Nightwatch-Demons-Are-Forever-Cast-Shudder-Every-Actor-Character.jpeg?resize=1200%2C675&ssl=1); 
+     background-repeat: no-repeat;
+    
+    background-size: cover;
+
+    
+    height: 90vh;
+    width: 100%;
+   
+    background-position-x:right ;
+    background-position-y:center ; 
+}
+.stream5{
+    
+     background-image: url(https://m.media-amazon.com/images/M/MV5BMTI3MDVkMTMtNTIzMy00NmJlLWIzOTMtOTZhYTk4MWJhMzc2XkEyXkFqcGc@._V1_QL75_UX606_.jpg); 
+     background-repeat: no-repeat;
+    
+    background-size: cover;
+
+    
+    height: 90vh;
+    width: 100%;
+   
+    background-position-x:right ;
+    background-position-y:center ; 
+}
+.stream6{
+    
+     background-image: url(https://i.ytimg.com/vi_webp/dsNBE9X9NXQ/maxresdefault.webp); 
+     background-repeat: no-repeat;
+    
+    background-size: cover;
+
+    
+    height: 90vh;
+    width: 100%;
+   
+    background-position-x:right ;
+    background-position-y:center ; 
+}
+.stream7{
+    
+     background-image: url(https://sumo.cdn.tv2.no/imageapi/v3/img/6037e3c5498e968b6a71782f-1709881016258?location=moviePoster&width=672); 
+     background-repeat: no-repeat;
+    
+    background-size: cover;
+
+    
+    height: 90vh;
+    width: 100%;
+   
+    background-position-x:right ;
+    background-position-y:center ; 
+}
+.stream8{
+    
+     background-image: url(https://assets-in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/the-extortion-et00393164-1728299020.jpg); 
+     background-repeat: no-repeat;
+    
+    background-size: cover;
+
+    
+    height: 90vh;
+    width: 100%;
+   
+    background-position-x:right ;
+    background-position-y:center ; 
+}
+.stream9{
+    
+     background-image: url(https://i.ytimg.com/vi/InvnbXX0VV8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBreaMV6gv0DMvUnhAlKbq0TpSbMA); 
+     background-repeat: no-repeat;
+    
+    background-size: cover;
+
+    
+    height: 90vh;
+    width: 100%;
+   
+    background-position-x:right ;
+    background-position-y:center ; 
+}
+.stream10{
+    
+     background-image: url(https://scontent.fjlr2-1.fna.fbcdn.net/v/t39.30808-6/464070009_1010020411142562_2390444359011971564_n.png?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=xXWJvbx22sQQ7kNvgGm41rY&_nc_zt=23&_nc_ht=scontent.fjlr2-1.fna&_nc_gid=ApP64QpLj-fQfiTwUvP97Mw&oh=00_AYAZpF8n4wUlTk7Ynx2_4tPbd9gExSl9bjOl37DFdKg4xQ&oe=671BB5E3); 
+     background-repeat: no-repeat;
+    
+    background-size: cover;
+
+    
+    height: 90vh;
+    width: 100%;
+   
+    background-position-x:right ;
+    background-position-y:center ; 
+}
+.mit{
+    background-color: rgb(18, 17, 17);
+    width: 100%;
+    height: 90vh;
+    opacity: 0.8;
+    position: relative;
+    
+}
+.mit1{
+    background-color: rgb(18, 17, 17);
+    width: 100%;
+    height: 90vh;
+    opacity: -0.1;
+    
+    
+    
+}
+.l{
+    position: absolute;
+    
+    
+    
+}
+.ity{
+    border-radius: 40px;
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19); 
+}

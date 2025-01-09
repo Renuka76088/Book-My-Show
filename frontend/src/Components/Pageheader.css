@@ -1,3 +1,96 @@
-.space{
-    margin-left: 700px;
+.rub{
+    margin-left: 40px;
+}
+.buoi{
+    height:60px;
+    width: 400px;
+    border-radius:10px;
+    background-color: white;
+   
+    padding: 5px;
+    border: 1px solid black;
+}
+.buoi:hover{
+    background-color: rgb(234, 233, 233);
+}
+.bor{
+    border: none;
+    padding: 10px;
+    border-bottom:1px solid black ;
+}
+.buoi1{
+    height:60px;
+    width: 400px;
+    background-color: white;
+    border-radius:10px;
+    border:none;
+}
+.search{
+    height: 50px;
+    width: 100%;
+    padding: 10px;
+    
+}
+.hup{
+    height:300px;
+    
+
+    background-color: white;
+}
+.joik{
+  
+    
+    overflow: hidden;
+    padding-right:199px ;
+}
+.klh{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    opacity: 1;
+    width: 100%;
+    /* padding-top: 12px;
+    padding-right: 16px;
+    padding-bottom: 12px;
+    padding-left: 16px; */
+    background-color: rgb(255,255,255);
+    box-shadow: rgba(0,0,0,0.1) 0px 4px 6px 0px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+    z-index: 1;
+    border-top: 0.5px solid grey;
+    /* height: 80px;
+    padding: 20px;
+    margin-top: -30px;
+    width: 400px;
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19); */
+}
+/* .know{
+    display: flex;
+    cursor: pointer;
+    margin: 8px 12px;
+    -webkit-box-align:center ;
+    align-items: center;
+    flex-direction: column;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+} */
+@media (max-width:1026px) {
+    .flop{
+        display: flex;
+    }
+    .clop{
+        display: none;
+    }
+}
+@media (min-width:1026px) {
+ 
+    .flop{
+        display: none;
+    }
+    .clop{
+        display: flex;
+    }
 }

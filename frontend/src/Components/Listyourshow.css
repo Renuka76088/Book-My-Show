@@ -1,0 +1,67 @@
+.list{
+    height: 320px;
+    width: 600px;
+    background-color:rgb(43, 49, 72);
+    position: relative;
+}
+.list2{
+    height: 320px;
+    width: 600px;
+    background-color:rgb(158, 109, 76);
+    position: relative;
+}
+.list1{
+    height: 320px;
+    width: 600px;
+    background-color:rgb(69, 68, 63);
+    position: relative;
+}
+.list3{
+    height: 320px;
+    width: 600px;
+    background-color:rgb(56, 84, 52);
+    position: relative;
+}
+.list4{
+    height: 320px;
+    width: 600px;
+    background-color:rgb(81, 108, 122);
+    position: relative;
+}
+.shou{
+    height: 250px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background-color: rgb(234, 249, 254);
+    border: 1px solid rgb(218, 215, 215);
+}
+.shou1{
+    height: 300px;
+    width: 320px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background-color: rgb(252, 241, 241);
+    border: 1px solid rgb(218, 215, 215);
+}
+.shou:hover{
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.shou1:hover{
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.polo{
+    font-size: 23px;
+}
+.Pojo{
+    background-image: url(https://assets-in.bmscdn.com/static/2021/06/security-imag.jpeg);
+    height: 300px;
+    width: 600px;
+    background-repeat: no-repeat;
+    position: relative;
+
+}

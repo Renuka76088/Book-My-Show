@@ -1,0 +1,17 @@
+.upload-box {
+    display: block;
+    width: 150px;
+    height: 150px;
+    /* border: 2px dashed grey; */
+    border-radius: 10px;
+    cursor: pointer;
+}
+.upload-box img {
+    width: 100%;
+    height: 100%;
+}
+.sr-only {
+    width: 1px;
+    height: 1px;
+    border: none;
+}

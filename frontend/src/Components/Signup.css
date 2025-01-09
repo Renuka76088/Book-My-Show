@@ -1,0 +1,21 @@
+.auth{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url(EauDp1hUcAAE-bK.jpg) ,url(https://assets-in.bmscdn.com/webin/corporate/corp-banner-bg.jpg );
+    background-repeat: no-repeat;
+   
+   background-size: cover;
+   float: left;
+   
+   height: 120vh;
+   width: 100%;
+  
+  
+}
+.rop{
+    height:600px;
+    width: 500px;
+    border-radius: 5px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
